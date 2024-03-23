@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="oblicz_bmi">Oblicz BMI</string>
+    <string name="wzrost_cm">Wzrost (cm)</string>
+</resources>
