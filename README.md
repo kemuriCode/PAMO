@@ -1,1 +1,4 @@
 # PAMO
+
+## Autor
+Marcin Dymek
