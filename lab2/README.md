@@ -12,4 +12,19 @@ Aplikacja została stworzona w celu zapewnienia prostego narzędzia do szybkiego
 - Wyświetlanie wyniku wraz z klasyfikacją: niedowaga, waga prawidłowa, nadwaga, otyłość.
 - Przyjazny interfejs użytkownika z wykorzystaniem Material Design.
 
-Autor: Marcin Dymek s15661
+## Dodatkowe Funkcje
+
+- **Kalkulator Zapotrzebowania Kalorycznego**: Pozwala użytkownikom obliczyć dzienne zapotrzebowanie kaloryczne na podstawie wieku, wagi, wzrostu, płci oraz poziomu aktywności fizycznej.
+- **Rekomendacje Przepisów Kulinarych**: Użytkownicy mogą otrzymać sugestie zdrowych przepisów kulinarnych, które pasują do ich stylu życia i potrzeb kalorycznych.
+
+## Instalacja
+
+Aplikację można zainstalować na każdym urządzeniu z systemem Android. Wystarczy pobrać plik APK i zainstalować go na urządzeniu.
+
+## Autor
+
+Marcin Dymek s15661
+
+## Licencja
+
+Aplikacja jest dostępna na licencji MIT. Szczegółowe informacje znajdują się w pliku LICENCJA w repozytorium.
