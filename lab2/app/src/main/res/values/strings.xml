@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="oblicz_bmi">Oblicz BMI</string>
+    <string name="wzrost_cm">Wzrost (cm)</string>
+
+    <string name="recipe1_title">Sałatka Cezar</string>
+    <string name="recipe1_description">Klasyczna sałatka z kurczakiem, sałatą rzymską, grzankami i parmezanem.</string>
+
+    <string name="recipe2_title">Spaghetti Carbonara</string>
+    <string name="recipe2_description">Tradycyjne włoskie spaghetti z boczkiem, jajkiem, parmezanem i czarnym pieprzem.</string>
+</resources>
