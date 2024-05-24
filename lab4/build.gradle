@@ -5,6 +5,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
     id 'checkstyle'
+    id 'org.jetbrains.kotlin.jvm' apply false
 }
 
 checkstyle {
@@ -25,5 +26,14 @@ tasks.register('checkstyle', Checkstyle) {
         html {
             destination rootProject.file("build/reports/checkstyle.html")
         }
+    }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+}
+kotlin {
+    jvmToolchain {
+        languageVersion.set(JavaLanguageVersion.of(8))
     }
 }

@@ -13,6 +13,8 @@ mockitoCore = "4.0.0"
 robolectric = "4.5.1"
 rules = "1.5.0"
 runner = "1.5.2"
+kotlin = "2.0.0"
+coreKtx = "1.13.1"
 
 [libraries]
 checkstyle = { module = "com.puppycrawl.tools:checkstyle", version.ref = "checkstyle" }
@@ -28,7 +30,9 @@ mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockitoCore
 robolectric = { module = "org.robolectric:robolectric", version.ref = "robolectric" }
 rules = { module = "androidx.test:rules", version.ref = "rules" }
 runner = { module = "androidx.test:runner", version.ref = "runner" }
+core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
+jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 
